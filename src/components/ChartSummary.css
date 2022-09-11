@@ -1,0 +1,16 @@
+.chartbox {
+  box-sizing: border-box;
+  width: 500px;
+  height: 100px;
+  background-color: white;
+  margin: 5px auto;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.image {
+  background: url("./assets/chart.png") no-repeat center center/cover;
+  width: 880px;
+  height: 100px;
+  object-fit: contain;
+}
